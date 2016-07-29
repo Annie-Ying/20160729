@@ -1,0 +1,223 @@
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.clear:after{
+	content: '';
+	display: block;
+	clear: both;
+}
+.waper{
+	width: 1267px;
+	border-top: 2px solid #b1191a;
+	margin: 50px auto;
+	position: relative;
+}
+.waper .content1{
+	position: absolute;
+	left: 258px;
+	top: -30px;
+}
+.waper .content1 .f1 a{
+	margin-right: 40px;
+	font-size: 14px;
+	color: black;
+}
+.waper .content2 .left .top{
+	width: 210px;
+	height: 44px;
+	background: #b1191a;
+	position: absolute;
+	left: 28px;
+	top: -44px;
+}
+.waper .content2 .left strong{
+	display: block;
+	color: white;
+	margin-left: 10px;
+	margin-top: 15px;
+
+}
+.waper .content2 .left .bottom{
+	width: 210px;
+	height: 466px;
+	background: #c81623;
+	position: absolute;
+	left: 28px;
+	top: 0px;
+	
+}
+.waper .content2 .left .bottom a{
+	display: block;
+	color: white;
+}
+
+.waper .content2 .left .bottom .f3{
+	margin-left: 193px;
+	margin-top: -14px;
+	line-height: 30px;
+	
+
+}
+.waper .content2 .left .bottom .a1 .d1{
+	margin-left: 10px;
+
+}
+.waper .content2 .left .bottom .a1 .d2{
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.waper .content2 .mid img{
+	position: absolute;
+	left: 248px;
+	top: 11px;
+}
+.waper .content2 .right .top{
+	width: 248px;
+	height: 163px;
+	border:1px solid #e4e4e4;
+	position: absolute;
+	right: 27px;
+	top: 11px;
+}
+.waper .content2 .right .top a{
+	color: #696969;
+}
+.waper .content2 .right .top .nav{
+		border-bottom: 1px dotted #e5e5e5;
+			height: 32px;
+}
+.waper .content2 .right .top .nav .c1{
+			margin-left: 16px;
+			font-size: 16px;
+			margin-top: 9px;
+}
+.waper .content2 .right .top .nav .c2{
+		font-size: 12px;
+			margin-top: -20px;
+			margin-left: 196px;
+			
+}
+.waper .content2 .right .top .nav .c3{
+	margin-top: -20px;
+			margin-left: 228px;
+}
+.waper .content2 .right .content{
+	margin-left: 15px;
+	line-height: 24px;
+}
+.waper .content2 .right .mid{
+			width: 248px;
+			border: 1px solid #e4e4e4;
+			border-top: none;
+			position: absolute;
+			right: 27px;
+			top: 175px;
+}
+.waper .content2 .right .mid li{
+	float: left;
+}
+.waper .content2 .right .mid li a{
+	display: block;
+}
+.waper .content2 .right .mid .g1,.waper .content2 .right .mid .g2,.waper .content2 .right .mid .g3,.waper .content2 .right .mid .g5,.waper .content2 .right .mid .g6,.waper .content2 .right .mid .g7{
+			width: 62px;
+			border-bottom: 1px solid #e4e4e4;
+			height: 21px;
+			border-right: 1px solid #e4e4e4;
+			display: block;
+			padding-top: 49px;
+			text-align: center;
+			color: black;
+}
+.waper .content2 .right .mid .g4,.waper .content2 .right .mid .g8{
+	width: 59px;
+			display: block;
+			padding-top: 49px;
+			height: 21px;
+			text-align: center;
+			border-bottom: 1px solid #e4e4e4;
+			color: black;
+}
+.waper .content2 .right .mid .g9,.waper .content2 .right .mid .g10,.waper .content2 .right .mid .g11{
+	display: block;
+			width: 62px;
+			border-right: 1px solid #e4e4e4;
+			padding-top: 49px;
+			height: 17px;
+			text-align: center;
+			color: black;
+}
+.waper .content2 .right .mid .g12{
+	display: block;
+			color: black;
+			text-align: center;
+			width: 59px;
+			height: 17px;
+			padding-top: 49px;
+}
+.waper .content2 .right .mid .e1{
+		margin-left: -230px;
+		margin-top: 6px;
+}
+.waper .content2 .right .mid .e2{
+		margin-left: -165px;
+		margin-top: 6px;
+}
+.waper .content2 .right .mid .e3{
+		margin-left: -105px;
+		margin-top: 6px;
+}
+.waper .content2 .right .mid .e4{
+		margin-left: -43px;
+		margin-top: 6px;
+}
+.waper .content2 .right .mid .e5{
+		margin-left: -230px;
+		margin-top:75px;
+}
+.waper .content2 .right .mid .e6{
+		margin-left: -165px;
+		margin-top: 75px;
+}
+.waper .content2 .right .mid .e7{
+		margin-left: -105px;
+		margin-top: 75px;
+}
+.waper .content2 .right .mid .e8{
+		margin-left: -43px;
+		margin-top: 75px;
+}
+.waper .content2 .right .mid .e9{
+		margin-left: -230px;
+		margin-top:145px;
+}
+.waper .content2 .right .mid .e10{
+		margin-left: -165px;
+		margin-top: 145px;
+}
+.waper .content2 .right .mid .e11{
+		margin-left: -105px;
+		margin-top: 145px;
+}
+.waper .content2 .right .mid .e12{
+		margin-left: -43px;
+		margin-top: 145px;
+}
+.waper .content2 .right .mid .ee8{
+	position: absolute;
+	left: 236px;
+	top: 71px;
+}
+.waper .content2 .right .mid .ee12{
+	position: absolute;
+	left: 236px;
+	top: 142px;
+}
+.waper .content2 .right .bottom .bb1{
+	position: absolute;
+	right: 27px;
+	top: 390px;
+}
